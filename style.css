@@ -10,7 +10,7 @@
 header h1{
     color:yellow;
 }
-@media(max-width:360px){
+@media(max-width:560px){
     .header video {
         width:320px;
         height:200px;
